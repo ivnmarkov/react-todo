@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+}
+
+.loader {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.iconsBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.td-content {
+    padding: 0 10px;
+    display: flex;
+}
+
+.td-content > span {
+    margin-right: 5px;
+}
